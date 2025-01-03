@@ -4,6 +4,9 @@
   "tabWidth": 2,
   "trailingComma": "es5",
   "importOrder": [
+    "^server-only",
+    "^user-server",
+    "^use-client",
     "^(react|next?/?([a-zA-Z/]*))$",
     "<THIRD_PARTY_MODULES>",
     "^@/(.*)$",
